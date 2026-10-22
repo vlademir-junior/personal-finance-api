@@ -140,4 +140,4 @@ Você pode acessar a documentação interativa e testar todas as rotas diretamen
 
 ---
 
-Feito por [Seu Nome](https://github.com/SEU_USUARIO) 👋
+Feito por [Vlademir Júnior](https://github.com/vlademir-junior) 👋
